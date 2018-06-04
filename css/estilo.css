@@ -1,0 +1,27 @@
+.axis .domain {
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+img{
+display:block;
+margin:auto;
+}
+
+svg {
+  font: 10px sans-serif;
+  padding: 10px 0 0 10px;
+}
+
+.arc {
+  stroke: #fff;
+}
+
+
+
